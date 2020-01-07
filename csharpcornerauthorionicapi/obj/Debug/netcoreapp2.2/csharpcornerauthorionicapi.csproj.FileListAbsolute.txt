@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\csharpcornerauthorionicapi\csharpcornerauthorionicapi\bin\Debug\netcoreapp2.2\csharpcornerauthorionicapi.deps.json
+C:\Users\Acer\Desktop\csharpcornerauthorionicapi\csharpcornerauthorionicapi\bin\Debug\netcoreapp2.2\csharpcornerauthorionicapi.runtimeconfig.json
+C:\Users\Acer\Desktop\csharpcornerauthorionicapi\csharpcornerauthorionicapi\bin\Debug\netcoreapp2.2\csharpcornerauthorionicapi.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\csharpcornerauthorionicapi\csharpcornerauthorionicapi\bin\Debug\netcoreapp2.2\csharpcornerauthorionicapi.dll
+C:\Users\Acer\Desktop\csharpcornerauthorionicapi\csharpcornerauthorionicapi\bin\Debug\netcoreapp2.2\csharpcornerauthorionicapi.pdb
+C:\Users\Acer\Desktop\csharpcornerauthorionicapi\csharpcornerauthorionicapi\obj\Debug\netcoreapp2.2\csharpcornerauthorionicapi.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\csharpcornerauthorionicapi\csharpcornerauthorionicapi\obj\Debug\netcoreapp2.2\csharpcornerauthorionicapi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\csharpcornerauthorionicapi\csharpcornerauthorionicapi\obj\Debug\netcoreapp2.2\csharpcornerauthorionicapi.RazorAssemblyInfo.cache
+C:\Users\Acer\Desktop\csharpcornerauthorionicapi\csharpcornerauthorionicapi\obj\Debug\netcoreapp2.2\csharpcornerauthorionicapi.RazorAssemblyInfo.cs
+C:\Users\Acer\Desktop\csharpcornerauthorionicapi\csharpcornerauthorionicapi\obj\Debug\netcoreapp2.2\csharpcornerauthorionicapi.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\csharpcornerauthorionicapi\csharpcornerauthorionicapi\obj\Debug\netcoreapp2.2\csharpcornerauthorionicapi.AssemblyInfo.cs
+C:\Users\Acer\Desktop\csharpcornerauthorionicapi\csharpcornerauthorionicapi\obj\Debug\netcoreapp2.2\csharpcornerauthorionicapi.RazorTargetAssemblyInfo.cache
+C:\Users\Acer\Desktop\csharpcornerauthorionicapi\csharpcornerauthorionicapi\obj\Debug\netcoreapp2.2\csharpcornerauthorionicapi.dll
+C:\Users\Acer\Desktop\csharpcornerauthorionicapi\csharpcornerauthorionicapi\obj\Debug\netcoreapp2.2\csharpcornerauthorionicapi.pdb
